@@ -1,6 +1,6 @@
 # Activity 3: Program Memory, Pointers, Malloc
 
-## Put name here
+# Umair & Nathan
 
 Folder: `activities_early_pointers`
 
@@ -105,6 +105,9 @@ before the `return` statement
 
 (In the references below is a link to a document that can help you to include
 images in Github README files)
+
+![alt text](COMPSYS.jpg)
+
 
 ### Task 2: Pointers for arrays and dynamic allocation
 

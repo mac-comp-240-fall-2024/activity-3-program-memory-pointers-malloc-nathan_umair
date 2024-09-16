@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+// Name: Umair and Nathan
 
 // Include the header file containing the prototypes (declarations) of
 // functions defined in the helper file string_funcs.c
@@ -18,7 +19,7 @@ void task3();
 
 int main() {
     // Task 1: call the first example to show how a pointer to int works
-    // task1();
+    task1();
 
     // Task 2: call the second example that creates static and dynamic arrays
     task2();
